@@ -6,3 +6,5 @@ departments = helper.get_column(data, 3)  # get department column
 counts = helper.counts(departments)       # count departments
 
 print(helper.dict_max_value(counts))      # print maximum
+
+#('POLICE', 13414)
